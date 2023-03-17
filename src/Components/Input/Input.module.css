@@ -1,0 +1,22 @@
+.inp{
+    width:400px;
+    height:60px;
+    border-radius:10px;
+    border:none;
+   background:#334352;
+   margin-left:100px;
+   margin-top:50px;
+   font-size: 30px;
+   color:aliceblue
+
+  }
+  button{
+    width:150px;
+    height:60px;
+    margin-left:100px;
+    border-radius:5px;
+    border:none;
+    font-size:25px;
+    color:aliceblue;
+    background:#334352;
+  }

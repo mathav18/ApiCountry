@@ -1,0 +1,9 @@
+#feeds{
+    width:1900px;
+   height:auto;
+   min-height: 1050px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202C37;
+}

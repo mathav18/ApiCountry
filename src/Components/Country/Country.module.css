@@ -1,0 +1,32 @@
+.flagDiv{
+ font-size:240px;
+}
+.big{
+    width:1900px;
+    
+}
+.box{
+    width:500px;
+   background-color: #2B3945;
+    margin-top:100px;
+   color:rgb(204, 204, 204);
+    font-family: sans-serif;
+    box-shadow: 0 14px 28px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 22%);
+    border-radius: 10px;
+    float:left;
+    margin-left:100px;
+   
+}
+
+.navigate{
+    list-style: none;
+    line-height:50px;
+}
+h3{
+    color:white;
+    margin-left:10px;
+}
+img{
+    width:500px;
+    height:280px;
+}
